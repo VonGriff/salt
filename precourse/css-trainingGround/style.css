@@ -1,0 +1,19 @@
+.negative {
+    background-color: black;
+    color: whitesmoke;
+}
+.positive {
+    background-color: #ff7961;
+    color: whitesmoke;
+}
+.huge {
+    font-size: xx-large;
+}
+
+div {
+    background-color: cadetblue;
+    width: 100px;
+    height: 50px;
+    margin: 2px;
+    padding: 4px;
+}
